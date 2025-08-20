@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 # This Phython program will print Hellow World...
-print("changg6......\n")
-print("change6......\n")
+print("change7......\n")
+print("change7......\n")
 
 
 
